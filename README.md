@@ -1,4 +1,4 @@
-# Tennis Game 
+# Simple Tennis Game 
 Recreating the tennis game using JavaScript.
 
 To run simple download `game.html` and open in a browser or clone onto your local device. 
